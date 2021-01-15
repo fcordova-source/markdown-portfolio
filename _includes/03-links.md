@@ -1,1 +1,1 @@
-link: https://github.com/fcordova-source
+https://www.github.com/fcordova-source
